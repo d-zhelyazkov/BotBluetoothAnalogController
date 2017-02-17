@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BotBluetoothAnalogController</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_not_avail">Bluetooth not available!</string>
+    <string name="bot_found">Robot found.</string>
+    <string name="bot_srch">Searching for robot.</string>
+    <string name="bt_rec_err">Receiving error!</string>
+    <string name="bt_transm_err">Transmitting error!</string>
+    <string name="bt_conn_err">BT connection error!</string>
+    <string name="bot_conn">Robot connected.</string>
+    <string name="try_conn">Trying to connect.</string>
+    <string name="sel_device">Select device.</string>
+</resources>
